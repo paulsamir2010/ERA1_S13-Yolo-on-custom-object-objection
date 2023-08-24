@@ -15,6 +15,8 @@ spoon (kichen) knife (kitchen)
 
 ![image](https://github.com/paulsamir2010/ERA1_S13-Yolo-on-custom-object-objection/blob/main/IMG_20230812_105330.jpg)
 
+![image](https://github.com/paulsamir2010/ERA1_S13-Yolo-on-custom-object-objection/blob/main/Knifedetected.jpg)
+
 ## Custom Data
 Trained the model on 238 custom images (used mobile phone to capture the images).
 
