@@ -27,8 +27,9 @@ Trained the model for 50 epochs
 ## Metrics
 Trained the model for 50 epochs
 
-Metrics
 mAP50 = 0.90
+
+![image](https://github.com/paulsamir2010/ERA1_S13-Yolo-on-custom-object-objection/blob/main/metrics.png)
 
 ## Deployment
 This is deployed in Hugging Face spaces using Gradio
