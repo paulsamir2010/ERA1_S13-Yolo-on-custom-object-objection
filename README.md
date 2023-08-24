@@ -26,9 +26,6 @@ Trained the model for 50 epochs
 Metrics
 mAP50 = 0.90
 
-## Visuals of Detected object
-
-
 ## Deployment
 This is deployed in Hugging Face spaces using Gradio
 https://huggingface.co/spaces/samirpaul/ERA1_S13_Object_Detection_Yolov5_Custom_Data
