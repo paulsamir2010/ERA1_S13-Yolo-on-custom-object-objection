@@ -1,3 +1,5 @@
+# Joint submission by Samir Paul ( paulsamir555@gmail.com ) and Monimoy Deb Purkayastha ( monimoyd@gmail.com )
+
 # ERA1_S13-Yolo-on-custom-object-objection
 ERA1_S13 Yolo on custom object objection; assignment of ERA1 program from TSAI (The School of AI)
 
