@@ -34,3 +34,5 @@ User Interface
 User can browse and select an image of spoon or knife
 
 Alternatively some examples are included in the UI of the app, to choose image of spoon or knife
+
+![image](https://github.com/paulsamir2010/ERA1_S13-Yolo-on-custom-object-objection/blob/main/HuggingFacePic.jpg)
