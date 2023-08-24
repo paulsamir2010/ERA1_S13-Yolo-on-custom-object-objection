@@ -11,6 +11,8 @@ spoon (kichen) knife (kitchen)
 
 ## Sample Data shown below
 
+![image](https://github.com/paulsamir2010/ERA1-S12-PyTorch-Lightning-Gradio-HuggingFace-spaces/blob/main/Validation_Metrics.jpg)
+
 ## Custom Data
 Trained the model on 238 custom images (used mobile phone to capture the images).
 
